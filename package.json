@@ -1,6 +1,6 @@
 {
   "name": "backbone.anchor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Singleton for convenient work with hash part of URL",
   "main": "lib/anchor",
   "directories": {
