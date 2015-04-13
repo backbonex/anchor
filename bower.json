@@ -1,6 +1,6 @@
 {
   "name": "backbone.anchor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/backbonex/anchor",
   "authors": [
     "jifeon <balakirev.andrey@gmail.com>",
@@ -25,7 +25,7 @@
   ],
   "dependencies": {
     "backbone": "~1.0.0",
-    "jquery": "~2.1.1"
+    "jquery": ">1.7.0"
   },
   "devDependencies": {
     "mocha": "~2.0.1",
